@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zsmeltz/Pics-N-Quotes/static/css/main.4ba7b843.chunk.css",
-    "main.js": "/zsmeltz/Pics-N-Quotes/static/js/main.53899181.chunk.js",
-    "main.js.map": "/zsmeltz/Pics-N-Quotes/static/js/main.53899181.chunk.js.map",
-    "runtime-main.js": "/zsmeltz/Pics-N-Quotes/static/js/runtime-main.bbf4a794.js",
-    "runtime-main.js.map": "/zsmeltz/Pics-N-Quotes/static/js/runtime-main.bbf4a794.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/zsmeltz/Pics-N-Quotes/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.7c84cbd4.chunk.js": "/zsmeltz/Pics-N-Quotes/static/js/2.7c84cbd4.chunk.js",
-    "static/js/2.7c84cbd4.chunk.js.map": "/zsmeltz/Pics-N-Quotes/static/js/2.7c84cbd4.chunk.js.map",
-    "index.html": "/zsmeltz/Pics-N-Quotes/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/zsmeltz/Pics-N-Quotes/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.4ba7b843.chunk.css.map": "/zsmeltz/Pics-N-Quotes/static/css/main.4ba7b843.chunk.css.map",
-    "static/js/2.7c84cbd4.chunk.js.LICENSE.txt": "/zsmeltz/Pics-N-Quotes/static/js/2.7c84cbd4.chunk.js.LICENSE.txt"
+    "main.css": "/Pics-N-Quotes/static/css/main.4ba7b843.chunk.css",
+    "main.js": "/Pics-N-Quotes/static/js/main.53899181.chunk.js",
+    "main.js.map": "/Pics-N-Quotes/static/js/main.53899181.chunk.js.map",
+    "runtime-main.js": "/Pics-N-Quotes/static/js/runtime-main.4411ec2d.js",
+    "runtime-main.js.map": "/Pics-N-Quotes/static/js/runtime-main.4411ec2d.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Pics-N-Quotes/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7c84cbd4.chunk.js": "/Pics-N-Quotes/static/js/2.7c84cbd4.chunk.js",
+    "static/js/2.7c84cbd4.chunk.js.map": "/Pics-N-Quotes/static/js/2.7c84cbd4.chunk.js.map",
+    "index.html": "/Pics-N-Quotes/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Pics-N-Quotes/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4ba7b843.chunk.css.map": "/Pics-N-Quotes/static/css/main.4ba7b843.chunk.css.map",
+    "static/js/2.7c84cbd4.chunk.js.LICENSE.txt": "/Pics-N-Quotes/static/js/2.7c84cbd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbf4a794.js",
+    "static/js/runtime-main.4411ec2d.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.7c84cbd4.chunk.js",
     "static/css/main.4ba7b843.chunk.css",
