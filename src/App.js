@@ -18,7 +18,7 @@ class App extends React.Component {
   fetchQuotes = (e) => {
     e.preventDefault();
     axios
-      .get("http://api.quotable.io/random")
+      .get("https://api.quotable.io/random")
       .then((res) => {
         console.log(res);
         this.setState({ quote: res.data.content, author: res.data.author });
